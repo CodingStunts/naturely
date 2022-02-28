@@ -9,7 +9,7 @@ This was inspired heavily by the Coronavirus pandemic and a need to get out afte
 
 _To proceed with the following you will need to have a code editor downloaded and install some dependencies._
 
-**1.** To clone this project from GitHub select the green 'Code' button and copy the https link into your terminal, using command `git clone https://github.com/CodingStunts/be-nc-games.git`. You should then be able to boot it up in your code editor to look it over by changing directory to the newly cloned repository. All associated files on this repo should then be available to you locally.
+**1.** To clone this project from GitHub select the green 'Code' button and copy the https link into your terminal, using command `git clone https://github.com/CodingStunts/naturely.git`. You should then be able to boot it up in your code editor to look it over by changing directory to the newly cloned repository. All associated files on this repo should then be available to you locally.
 
 **2.** In order to get the project running locally as intended you will need to install npm dependencies via your terminal in your code editor. Using command `npm i` this should install all dependencies needed.
 
